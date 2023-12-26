@@ -1,0 +1,1 @@
+# gpseed_nextjs
